@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	font-family: Gill Sans;
+}
+
+header {
+	font-size: 50px;
+	background-color: #186A5B;
+	display: block;
+	text-align: center;
+	color: white;
+}
+
+song {
+	margin: 0.5cm;
+}
+
+title, artist, genre, releaseYear {
+	color: #020650;
+	display: block;
+	text-align: center;
+}
+
+title {
+	font-size: 30px;
+	background-color: coral;
+	border-radius: 20px;
+	margin-left: 475px;
+	margin-right: 475px;
+}
+
+artist {
+	font-size: 25px;
+}
+
+genre, releaseYear {
+	font-size: 18px;
+}
+
+releaseYear:before {
+	content:"Release Year: ";
+}
+
+genre:before {
+	content:"Genre: ";
+}

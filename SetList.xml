@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "Setlist.css" ?>
+<setlist>
+	<header>Set List</header> 
+
+	<song>
+		<title>Famous</title>
+		<artist>Kanye West</artist>
+		<genre>Rap</genre>
+		<releaseYear>2016</releaseYear>
+	</song>
+
+	<song>
+		<title>Spice Girl</title>
+		<artist>Aminé</artist>
+		<genre>Rap</genre>
+		<releaseYear>2017</releaseYear>
+	</song>
+
+	<song>
+		<title>Watermelon Sugar</title>
+		<artist>Harry Styles</artist>
+		<genre>Pop</genre>
+		<releaseYear>2019</releaseYear>
+	</song>
+	
+	<song>
+		<title>King Kunta</title>
+		<artist>Kendrick Lamar</artist>
+		<genre>Rap</genre>
+		<releaseYear>2015</releaseYear>
+	</song>
+	
+	<song>
+		<title>Juice</title>
+		<artist>Lizzo</artist>
+		<genre>Funk</genre>
+		<releaseYear>2019</releaseYear>
+	</song>
+	
+	<song>
+		<title>3 Nights</title>
+		<artist>Dominic Fike</artist>
+		<genre>Alternative</genre>
+		<releaseYear>2018</releaseYear>
+	</song>
+	
+	<song>
+		<title>Don’t Start Now</title>
+		<artist>Dua Lipa</artist>
+		<genre>Pop</genre>
+		<releaseYear>2020</releaseYear>
+	</song>
+	
+	<song>
+		<title>Lush Life</title>
+		<artist>Zara Larsson</artist>
+		<genre>Pop</genre>
+		<releaseYear>2017</releaseYear>
+	</song>
+	
+	<song>
+		<title>Sunday Best</title>
+		<artist>Surfaces</artist>
+		<genre>Pop</genre>
+		<releaseYear>2019</releaseYear>
+	</song>
+	
+	<song>
+		<title>No Diggity</title>
+		<artist>Chet Faker</artist>
+		<genre>Soul</genre>
+		<releaseYear>2012</releaseYear>
+	</song>
+	
+	<song>
+		<title>Love Club</title>
+		<artist>Lorde</artist>
+		<genre>Dance Electronic</genre>
+		<releaseYear>2013</releaseYear>
+	</song>
+
+</setlist>
